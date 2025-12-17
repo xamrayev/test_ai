@@ -1,0 +1,38 @@
+{
+    "title": "💡 Gemini AI-Test Variantlari Generatori",
+    "settings": "Sozlamalar",
+    "generator_options": "Generatsiya Parametrlari",
+    "subject": "Fan",
+    "themes": "Mavzular (vergul bilan ajratilgan)",
+    "theme": "Mavzu",
+    "difficulty": "Qiyinlik darajasi",
+    "que_count": "Savollar soni",
+    "que_options": "Variantlar soni",
+    "variation_count": "Variantlar soni (A, B, C...)",
+    "generate_test": "🚀 Testni Generatsiya Qilish",
+    "no_key": "Iltimos, API kalitini kiriting.",
+    "generating": "Generatsiya boshlandi. Iltimos, kuting...",
+    "err_generate": "❌ Generatsiya xatosi:",
+    "done": "✅ Barcha test variantlari muvaffaqiyatli generatsiya qilindi va aralashtirildi!",
+    "variant": "Variant",
+    "test_variant": "Test - Variant",
+    "download": "⬇️ Yuklab olish (.md)",
+    "copy": "📋 Matnni Wordga nusxalash",
+    "questions": "Savollar",
+    "question": "Savol",
+
+    "key": "Kalit",
+    "que_keys" : "Variant kalitlari",
+
+    "key_help": "Google AI Studio'dan olingan API kalitingiz.",
+    "temp_subject": "Python Dasturlash",
+    "temp_themes": "o'zgaruvchilarni e'lon qilish, satrlar bilan ishlash, arifmetik amallar",
+    "setting_variation": "Variant Sozlamalari", 
+    "prompt_template": "Siz testlar tuzish bo'yicha ekspert hisoblanasiz. {subject} fani bo'yicha {topics} mavzulari asosida {q_count} ta noyob savol yarating. Qiyinlik darajasi: {difficulty}. Har bir savol uchun {option_count} ta o'ziga xos va ishonchli javob variantini taqdim eting. Natijani faqat toza JSON formatida qaytaring.",
+    "spinner": "⏳ Savollar generatsiya qilinmoqda...",
+
+    "error_429": "Gemini API Xatosi: **429 RESOURCE_EXHAUSTED**. Siz so'rovlar chegarasidan (Kvota) oshib ketdingiz. Iltimos, bir-ikki daqiqa kuting va qayta urinib ko'ring.",
+    "error_json": "Gemini to'g'ri JSONni qaytarmadi. Ehtimol, prompt juda murakkab yoki ichki xato yuz berdi.",
+    "error_critical": "Kritik xato:"
+    
+}
