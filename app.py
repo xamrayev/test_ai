@@ -215,7 +215,7 @@ def generate_test(api_key: str, subject: str, topics: str, difficulty: str, q_co
         
         with st.spinner(spinneri18):
             response = client.models.generate_content(
-                model='gemini-2.5-pro',
+                model='gemini-flash-lite-latest',
                 contents=prompt,
                 config=types.GenerateContentConfig(
                     response_mime_type="application/json",
